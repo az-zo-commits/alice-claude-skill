@@ -1,3 +1,4 @@
+// redeploy: try gemini-2.5-flash-lite
 const DEFAULT_MODEL = "gemini-3.5-flash-lite";
 const MAX_HISTORY_MESSAGES = 8;
 const MAX_HISTORY_MESSAGE_CHARS = 1200;
